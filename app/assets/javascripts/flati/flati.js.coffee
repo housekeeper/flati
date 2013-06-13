@@ -1,0 +1,12 @@
+//= require jquery
+//= require flati/bootstrap.min
+//= require flati/modernizr.custom.63321
+//= require flati/jquery.mousewheel.min
+//= require flati/jquery.touchSwipe.min
+//= require flati/jquery.mousewheel.min
+//= require flati/superfish
+//= require flati/jquery.prettyPhoto
+//= require flati/scripts
+//= require flati/jquery.carouFredSel-6.2.1-packed
+//= require flati/jquery-ui.min
+//= require flati/jquery.nerveSlider.min
