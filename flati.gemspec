@@ -16,15 +16,84 @@ Gem::Specification.new do |s|
     "README.rdoc"
   ]
   s.files = [
-    "VERSION"
+    "Gemfile",
+    "MIT-LICENSE.txt",
+    "README.rdoc",
+    "Rakefile",
+    "VERSION",
+    "app/assets/fonts/ecoico.eot",
+    "app/assets/fonts/ecoico.svg",
+    "app/assets/fonts/ecoico.ttf",
+    "app/assets/fonts/ecoico.woff",
+    "app/assets/fonts/fontawesome-webfont.eot",
+    "app/assets/fonts/fontawesome-webfont.svg",
+    "app/assets/fonts/fontawesome-webfont.ttf",
+    "app/assets/fonts/fontawesome-webfont.woff",
+    "app/assets/fonts/zocial-regular-webfont.eot",
+    "app/assets/fonts/zocial-regular-webfont.svg",
+    "app/assets/fonts/zocial-regular-webfont.ttf",
+    "app/assets/fonts/zocial-regular-webfont.woff",
+    "app/assets/images/accordion.png",
+    "app/assets/images/client1.png",
+    "app/assets/images/client2.png",
+    "app/assets/images/client3.png",
+    "app/assets/images/client4.png",
+    "app/assets/images/client5.png",
+    "app/assets/images/client6.png",
+    "app/assets/images/dummy.png",
+    "app/assets/images/lines.png",
+    "app/assets/images/main_carousel_nav.png",
+    "app/assets/images/next-light.png",
+    "app/assets/images/play-pause-light.png",
+    "app/assets/images/preload_img.gif",
+    "app/assets/images/prev-light.png",
+    "app/assets/images/ribbon.png",
+    "app/assets/images/slider_nav.png",
+    "app/assets/images/zoom.png",
+    "app/assets/javascripts/bootstrap.min.js",
+    "app/assets/javascripts/flati.js.coffee",
+    "app/assets/javascripts/jPages.js",
+    "app/assets/javascripts/jquery-ui.min.js",
+    "app/assets/javascripts/jquery.carouFredSel-6.2.1-packed.js",
+    "app/assets/javascripts/jquery.catslider.js",
+    "app/assets/javascripts/jquery.isotope.min.js",
+    "app/assets/javascripts/jquery.js",
+    "app/assets/javascripts/jquery.mousewheel.min.js",
+    "app/assets/javascripts/jquery.nerveSlider.min.js",
+    "app/assets/javascripts/jquery.nivo.slider.pack.js",
+    "app/assets/javascripts/jquery.prettyPhoto.js",
+    "app/assets/javascripts/jquery.socialist.min.js",
+    "app/assets/javascripts/jquery.touchSwipe.min.js",
+    "app/assets/javascripts/modernizr.custom.63321.js",
+    "app/assets/javascripts/modernizr.custom.js",
+    "app/assets/javascripts/scripts.js",
+    "app/assets/javascripts/superfish.js",
+    "app/assets/stylesheets/accordian.sass",
+    "app/assets/stylesheets/alt_footer.sass",
+    "app/assets/stylesheets/bootstrap.sass",
+    "app/assets/stylesheets/flati.sass",
+    "app/assets/stylesheets/font-awesome-ie7.sass",
+    "app/assets/stylesheets/font-awesome.sass",
+    "app/assets/stylesheets/mainsite.css.sass",
+    "app/assets/stylesheets/nerveslider.sass",
+    "app/assets/stylesheets/prettify.sass",
+    "app/assets/stylesheets/prettyPhoto.css",
+    "app/assets/stylesheets/pricing.css",
+    "app/assets/stylesheets/slider.sass",
+    "app/assets/stylesheets/socialist.sass",
+    "app/assets/stylesheets/style.css",
+    "app/assets/stylesheets/theme.sass",
+    "app/assets/stylesheets/timeline.sass",
+    "app/assets/stylesheets/zocial.sass",
+    "flati.gemspec",
+    "lib/flati.rb",
+    "lib/flati/engine.rb"
   ]
   s.homepage = "http://github.com/daveed/flati"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.24"
+  s.rubygems_version = "0.1.0"
   s.summary = "flati wraps and installs the bootstrap theme Flati into a rails asset pipeline."
 
-  s.add_dependency "sass-rails", "~> 3.2.5"
-  s.add_dependency "coffee-rails", "~> 3.2.2"
-
 end
+
